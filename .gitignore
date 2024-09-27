@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+.pnpm/
+.vscode/
+dist/
+build/
+out/
+
+# Vercel files
+.vercel/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/Editor specific
+.DS_Store
+Thumbs.db
+
+# Production
+.env
+.env.local
+.env.*.local
+
+# Others
+*.log
